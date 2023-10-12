@@ -38,5 +38,6 @@ In conclusion, EDA is an essential step in data analysis, helping us understand 
 ![image](https://github.com/meetttttt/EDA-on-Fifa-Data/assets/74391584/1afea057-3ce2-4b48-924f-a30c0116b0ef)
 ![Screenshot 2023-10-12 183858](https://github.com/meetttttt/EDA-on-Fifa-Data/assets/74391584/8b3cb173-ebf0-479d-87bc-34150d69df36)
 ![image](https://github.com/meetttttt/EDA-on-Fifa-Data/assets/74391584/bc378d0e-a03d-47f8-8a14-b162fa07cfc0)
-![image](https://github.com/meetttttt/EDA-on-Fifa-Data/assets/74391584/dff8d0c1-7ffc-4e48-859f-419bf092fc9d)
+![image](https://github.com/meetttttt/EDA-on-Fifa-Data/assets/74391584/0f249a49-b877-41e6-be12-61369b428e4f)
+
 
