@@ -1,30 +1,42 @@
-# EDA-on-Fifa-Data
-Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations. Here we are using FIFA dataset to perform EDA 
-It is a good practice to understand the data first and try to gather as many insights from it. EDA is all about making sense of data in hand,before getting them dirty with it.
-Exploratory Data Analysis (EDA) is an approach/philosophy for data analysis that employs a variety of techniques (mostly graphical) to:
-1. Maximize insight into a data set;
-2. Uncover underlying structure;
-3. Extract important variables;
-4. Detect outliers and anomalies;
-5. Test underlying assumptions;
-6. Develop parsimonious models; and¶
-7. Determine optimal factor settings
+# Exploratory Data Analysis on FIFA Data
 
- Conclusion:
-  The main purpose of EDA is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect   outliers or anomalous events, find interesting relations among the variables
-  Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to       check  assumptions with the help of summary statistics and graphical representations.
- Final Conclusion on EDA on Fifa data:
- Here we have done EDA on fifa Players data
- As Data was preprocessed we didnt do preprocessing of data
- We took various attribute such as weight, height and many more of the player and did EDA
- As This dataset is huge and has 104 attribute here I have done EDA on some attribute only
- Here I have only used Matplotlib only there many other library to use.
- As Data is already preprocessed but it has some missing value(simply avoid it since we are just doing EDA)
- Here I took club and compared their players respectively (You can take more Clubs)
- We also displayed from where most players comed (nationality)
- We also comapared PLayers Wages in Euro
- We also compared GoalKeepers Skills
- We also comapred Players Physic
-Thats it for EDA
-If you like my work do upvote¶
-Try this and Explore....!
+Exploratory Data Analysis (EDA) is a crucial process for gaining insights into a dataset, identifying patterns, anomalies, and testing hypotheses. It involves using summary statistics and graphical representations to understand the data before diving into deeper analysis. In this EDA, we utilize the FIFA dataset to extract valuable information.
+
+## The Essence of EDA
+1. **Maximize Insight**: EDA helps extract the maximum insight from a dataset, enabling better decision-making.
+
+2. **Uncover Structure**: It uncovers underlying structures within the data, revealing relationships and trends.
+
+3. **Extract Variables**: EDA assists in identifying important variables that may influence the analysis.
+
+4. **Detect Anomalies**: EDA is effective in detecting outliers or anomalous events within the data.
+
+5. **Test Assumptions**: It helps test and validate the assumptions made during analysis.
+
+6. **Develop Models**: EDA is a precursor to building parsimonious and effective models.
+
+7. **Optimize Factors**: EDA assists in determining optimal settings for various factors in your analysis.
+
+## The Power of EDA
+The primary goal of EDA is to explore data without making assumptions. It aids in identifying errors, understanding data patterns, detecting outliers, and revealing interesting relationships among variables. EDA is a critical step in the data analysis process.
+
+## FIFA Data EDA Highlights
+In our EDA of FIFA player data, we focused on several key attributes without performing additional data preprocessing, as the data was already processed. Here's a summary of our analysis:
+
+- We examined attributes such as player weight, height, and more, providing insights into these player characteristics.
+- This dataset is extensive, with 104 attributes, but we concentrated on a subset of them.
+- We utilized Matplotlib for our visualizations, although various libraries are available for this purpose.
+- While the dataset contains some missing values, we did not address them in this EDA, as our focus was on exploring the data.
+- We compared players from different clubs, providing an overview of their attributes. You can expand this analysis to more clubs as needed.
+- We explored the nationalities of the players, showcasing the diversity in the dataset.
+- Wages in Euros were compared across players, giving insights into the financial aspects of the sport.
+- We also examined goalkeeper skills and player physique to understand the distribution of these attributes.
+
+In conclusion, EDA is an essential step in data analysis, helping us understand the data and draw initial insights. If you found this EDA informative, please consider giving it an upvote. Explore and analyze your data to gain valuable insights and make informed decisions!
+
+# Preview of the Analysis:
+![image](https://github.com/meetttttt/EDA-on-Fifa-Data/assets/74391584/1afea057-3ce2-4b48-924f-a30c0116b0ef)
+![Screenshot 2023-10-12 183858](https://github.com/meetttttt/EDA-on-Fifa-Data/assets/74391584/8b3cb173-ebf0-479d-87bc-34150d69df36)
+![image](https://github.com/meetttttt/EDA-on-Fifa-Data/assets/74391584/bc378d0e-a03d-47f8-8a14-b162fa07cfc0)
+![image](https://github.com/meetttttt/EDA-on-Fifa-Data/assets/74391584/dff8d0c1-7ffc-4e48-859f-419bf092fc9d)
+
